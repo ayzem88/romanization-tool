@@ -1,0 +1,90 @@
+•أبو زيد، بكر عبد الله، فقه النّوازل (بيروت: مؤسّسة الرّسالة، 1996).
+•Abū Zayd, Bakr ʻAbd Allāh, Fiqh alnnwāzl (Beirut: Muʼassasat alrrsālh, 1996).
+    'أ': ['A'],  # في أول الكلمة
+	'أ': ['a'],  # في منتصف الكلمة
+	'أ': ['ā'],  # مد قصيرة = فتحة
+	'ال': ['Al-'],  # أل التعريف
+	'ب': ['b'],
+    'ت': ['t'], 
+    'ت': ['tt'],  # تقابل التاء المشددة أو التاء بعد أل الشمسية
+    'ث': ['th'],	
+    'ج': ['j'],	
+    'ج': ['ǧ'], # ؟؟
+    'ج': ['ġ'], # ؟؟
+    'ح': ['ḥ'], 
+    'خ': ['kh'],
+    'خ': ['ḫ'], #؟؟
+    'د': ['d'],
+    'ذ': ['dh'],
+	'ذ': ['ḏ'], #؟؟
+    'ر': ['r'],
+    'ز': ['z'],	
+    'س': ['s'],
+    'ش': ['sh'],
+    'ص': ['ṣ'],
+    'ض': ['ḍ'],
+    'ط': ['ṭ'],
+    'ظ': ['ẓ'],	
+    'ع': ['ʻA'], # في أول الكلمة
+    'ع': ['ʻa'],	# في منتصف الكلمة
+    'غ': ['gh'],
+    'غ': ['ġ'], #??
+    'ف': ['f'],
+
+	
+•أحمد بن فارس، معجم مقاييس اللّغة، تحقيق: عبد السّلام محمد هارون (القاهرة: دار الفكر، 1979م).
+•Aḥmad ibn Fāris, Muʻjam Maqāyīs alllghh, ed. ʻAbd alsslām Muḥammad Hārūn (Cairo: Dār Al-Fikr, 1979).
+
+•الإسنوي، عبد الرحيم بن الحسن، نهاية السّول شرح منهاج الوصول (بيروت: دار الكتب العلميّة، 1420ه/ 1999م)، ط1.
+•Al-Isnawī, ʻAbd Al-Raḥīm ibn Al-Ḥasan, Nihāyat alsswl sharḥ Minhāj Al-wuṣūl (Beirut: Dār Al-Kutub alʻlmyyh, 1999), 1st ed.
+
+•الأنصاريّ، فريد المصطلح الأصوليّ عند الشّاطبيّ (الدّار البيضاء، مطبعة النّجاح، 1424ه/ 2004م)، ط1.
+•Al-Isnawī, ʻAbd Al-Raḥīm ibn Al-Ḥasan, The End of Al-Soul, Explanation of the Methodology of Arrival (Beirut: Dār Al-Kutub alʻlmyyh, 1999), 1st ed.
+
+•Alʼnṣārī, Farīd, Al-muṣṭalaḥ alʼṣwlī ʻinda alshshāṭbī (alddār Al-Bayḍāʼ, Maṭbaʻat alnnjāḥ, 2004), 1st ed.
+
+
+•البخاريّ، عبد العزيز بن أحمد، كشف الأسرار شرح أصول البزدويّ (بيروت: دار الكتاب الإسلاميّ، د.ت.).
+•Albkhārī, ʻAbd Al-ʻAzīz ibn Aḥmad, Kashf Al-asrār sharḥ uṣūl albzdwī (Beirut: Dār Al-Kitāb alʼslāmī, n.d.).
+
+•البخاريّ، محمّد بن إسماعيل، الجامع الصّحيح، تحقيق: مصطفى ديب البغا (بيروت: دار ابن كثير، 1407ه/ 1987م)، ط3.
+•Albkhārī, Muḥammad ibn Ismāʻīl, Al-Jāmiʻ alṣṣḥyḥ, ed. Muṣṭafá Dīb Al-Bughā (Beirut: Dār Ibn Kathīr, 1987), 3rd ed.
+
+•التّفتازاني، سعد الدّين مسعود، شرح التّلويح على التّوضيح (القاهرة: مكتبة صبيح، د. ت.).
+
+•الجرجانيّ، عليّ بن محمّد، التّعريفات، (بيروت: دار الكتاب العربيّ، 1405ه)، ط1.
+•Aljrjānī, ʻlī ibn Muḥammad, Al-ttʻryfāt, (Beirut: Dār Al-Kitāb alʻrbī, 1985), 1st ed.
+
+•الجصّاص، أحمد بن عليّ، أحكام القرآن، تحقيق: محمّد صادق القمحاوي (بيروت: دار إحياء التّراث العربيّ، 1405ه).
+•Aljṣṣāṣ, Aḥmad ibn ʻlī, Aḥkām Al-Qurʼān, ed. Muḥammad Ṣādiq Al-Qamḥāwī (Beirut: Dār Iḥyāʼ alttrāth alʻrbī, 1985).
+
+•الجصّاص، أحمد بن عليّ، الفصول في الأصول، (الكويت: وزارة الأوقاف الكويتيّة، 1414هـ/ 1994م)، ط2.
+•Aljṣṣāṣ, Aḥmad ibn ʻlī, Al-Fuṣūl fī Al-uṣūl, (Al- Kuwait: Wizārat Al-Awqāf alkwytyyh, 1994), 2nd ed.
+•Aljṣṣāṣ, Aḥmad ibn ʻlī, Provisions of the Qur’an, ed. Muḥammad Ṣādiq Al-Qamḥāwī (Beirut: Dār Iḥyāʼ alttrāth alʻrbī, 1985).
+
+•الزّركشيّ، بدر الدّين محمّد، البحر المحيط في أصول الفقه (القاهرة: دار الكتبيّ، 1414ه/ 1994م)، ط1.
+•Alzzarkashī, Badr alddyn Muḥammad, The Ocean in the origins of Islamic jurisprudence (Cairo: Dār alktbī, 1994), 1st ed.
+•Alzzrkshī, Badr alddyn Muḥammad, Al-Baḥr Al-muḥīṭ fī uṣūl Al-fiqh (Cairo: Dār alktbī, 1994), 1st ed.
+
+
+
+•الزّنكي، صالح قادر، "الأحكام الاستثنائيّة وإشكاليّة توسيعها: رؤية مقاصديّة"، مجلة تفكّر، مج6، ع2، (2005).
+•Alzznky, Ṣāliḥ Qādir, "Al-aḥkām alāstthnāʼyyh wʼshkālyyh twsyʻhā: ruʼyah mqāṣdyyh", Majallat tfkkr, Vol. 6, No. 2, 1- 19.
+
+
+•السّعيد، المعتزّ بالله، "المدوّنات اللّغويّة"، تحرير: محسن رشوان، المعتزّ بالله السّعيد، في: الموارد اللّغويّة (الرّياض: مركز الملك عبد الله بن عبد العزيز الدّوليّ لخدمة اللّغة العربيّة، 1441ه/ 2019م)، ط1.
+•Alssʻyd, almʻtzz billāh, "almdwwnāt alllghwyyh", taḥrīr: Muḥsin Rashwān, almʻtzz billāh alssʻyd, fī: Al-mawārid alllghwyyh (Al-Riyadh: Markaz Al-Malik ʻAbd Allāh ibn ʻAbd Al-ʻAzīz alddwlī li-Khidmat allughah Al-ʻArabīyah, 2019), 1st ed.
+
+•السّعيد، المعتزّ بالله، "موارد المعجم التّاريخيّ للّغة العربيّة"، مجلّة مجمع اللّغة العربيّة بالقاهرة، ع129، (2015م).
+•Alssʻyd, almʻtzz billāh, "Mawārid Al-Muʻjam alttārykhī lllghh Al-ʻArabīyah", mjllh Majmaʻ alllghh Al-ʻArabīyah in Cairo, No.129, (2015).
+
+•الشّاشي، أحمد بن إسحاق، أصول الشّاشي، (بيروت: دار الكتاب العربيّ، د.ت.).
+•Alshshāshy, Aḥmad ibn Isḥāq, Uṣūl alshshāshy, (Beirut: Dār Al-Kitāb alʻrbī, n.d.).
+
+•الشّاطبيّ، إبراهيم بن موسى، الموافقات، تحقيق: مشهور بن حسن آل سلمان (القاهرة: دار ابن عفان، ط1، 1417ه/ 1997م).
+•Alshshāṭbī, Ibrāhīm ibn Mūsá, Al-Muwāfaqāt, ed. Mashhūr ibn Ḥasan Āl Salmān (Cairo: Dār Ibn ʻAffān, 1st ed., 1997).
+
+
+•الهنديّ، صفيّ الدّين، الفائق في أصول الفقه، تحقيق: محمود نصّار (بيروت: دار الكتب العلميّة، 1426ه/ 2005م)، ط1.
+•Alhndī, ṣfī alddyn, Al-fāʼiq fī uṣūl Al-fiqh, ed. Maḥmūd Naṣṣār (Beirut: Dār Al-Kutub alʻlmyyh, 2005), 1st ed.
+•Alhndī, ṣfī alddyn, The Supereor in the principles of Islamic jurisprudence, ed. Maḥmūd Naṣṣār (Beirut: Dār Al-Kutub alʻlmyyh, 2005), 1st ed.
