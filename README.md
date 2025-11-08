@@ -1,4 +1,4 @@
-# أداة الرومنة - Romanization Tool
+# أداة الرومنة
 
 أداة بسيطة وسهلة الاستخدام لتحويل النصوص العربية إلى رومنة باستخدام واجهة رسومية حديثة.
 
@@ -26,8 +26,8 @@
 
 1. استنسخ المستودع:
 ```bash
-git clone https://github.com/yourusername/الرومنة.git
-cd الرومنة
+git clone https://github.com/ayzem88/romanization-tool.git
+cd romanization-tool
 ```
 
 2. ثبت المتطلبات:
