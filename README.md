@@ -1,4 +1,4 @@
-# أداة الرومنة
+# الرومنة / Romanization Tool
 
 <div dir="rtl">
 
